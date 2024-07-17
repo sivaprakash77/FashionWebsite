@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mencontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}
+del{
+    color: red;
+}
+button{
+    padding: 5px 20px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+.footersection{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: end;
+    margin-top: 10px;
+}
+.footersection h1{
+    margin-right: 10px;
+}

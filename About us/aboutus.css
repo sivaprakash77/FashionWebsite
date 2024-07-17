@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: justify;
+}
+.paradiv{
+    padding-left: 40px;
+}
+.paradiv p{
+    font-size: 20px;
+}
+.paradiv h1{
+    font-size: 40px;
+}
+.footersection{
+    background-color: black;
+    color: white;
+    height: 80px;
+    padding-top: 40px;
+    text-align: end;
+    margin-top: 10px;
+}
+.footersection h1{
+    margin-right: 10px;
+}
